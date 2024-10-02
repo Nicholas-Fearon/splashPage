@@ -1,0 +1,2 @@
+# splashPage
+Splash page 
