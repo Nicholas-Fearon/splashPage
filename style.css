@@ -17,7 +17,6 @@ nav {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     text-decoration: underline;
-
 }
 
 main {
@@ -32,9 +31,6 @@ main {
     flex-direction: row;
 }
 
-.section2 {
-
-}
 
 .section3 {
     padding: 10px;
